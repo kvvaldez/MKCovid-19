@@ -1,4 +1,5 @@
-# Detection of phrases in Spanish with a suicidal tendency in social networks
+# A Detailed Study on the Choice of Hyperparameters for Transfer Learning in Covid-19 Image Datasets using Bayesian Optimization
+
 
 The code belongs to the research work entitled "A Detailed Study on the Choice of Hyperparameters for Transfer Learning in Covid-19 Image Datasets using Bayesian Optimization" that was published in the International Journal of Advanced Computer Science and Applications in April 2021.
 
